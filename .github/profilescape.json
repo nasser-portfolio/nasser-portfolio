@@ -1,0 +1,22 @@
+// Profilescape settings. Card options: https://github.com/chethandvg/profilescape/blob/main/docs/cards.md
+{
+  "options": {
+    "hero": {
+      "name": "Nasser Jemal",
+      "role": "Co-Founder @ PHINLinc AB · IT Engineering Student",
+      "tagline": "Building connected solutions across software and systems, from problem to implementation.",
+      "chips": ["Python", "C", "Java", "TypeScript"],
+      "status": "open to collaboration · Uppsala, Sweden",
+      "codeLanguage": "python"
+    },
+    "socials": {
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/nasser-jemal/",
+        "email": "nasserjemal@outlook.com"
+      }
+    },
+    "stack": {
+      "icons": ["python", "c", "java", "javascript", "typescript", "html5", "css", "nodedotjs", "git", "figma"]
+    }
+  }
+}
